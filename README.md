@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, eu sou o Kadu Lima 👋
+Estudante de Ciência da computação no 4 semestre com interesse na área de pentest e segurança.
 
-<!--
-**KaduLm/KaduLm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-goncalves-lima-0ab4b21b6/)
 
-Here are some ideas to get you started:
+![Kadu GitHub stats](https://github-readme-stats.vercel.app/api?username=KaduLm&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduLm&layout=donut&theme=dark)](https://github.com/KaduLm/github-readme-stats)
+
+
+### Tecnologias usadas
+
+ <div style="display: inline-block"><br />
+        <img align="center" alt="html5"
+            src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+        <img align="center" alt="JavaScript"
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img align="center" alt="Python"
+            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img align="center" alt="Java"
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img align="center" alt="Kali Linux"
+            src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    </div>
+
+
