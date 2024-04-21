@@ -1,4 +1,4 @@
-### Olá, eu sou o Kadu Lima 👋
+### Olá, eu sou o Carlos Eduardo 👋
 Estudante de Ciência da computação no 5 semestre com interesse na área de pentest, desenvolvimento, redes e segurança.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-goncalves-lima-0ab4b21b6/)
